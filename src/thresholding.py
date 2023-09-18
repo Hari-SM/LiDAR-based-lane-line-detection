@@ -7,7 +7,7 @@ def reflectivity_threshold(pcd, threshold=0.5):
     files, filter it by the threshold value and return as a new point cloud file.
 
     :param pcd: the input point cloud file
-    :param threshold: the minimum reflectivity value required for thr thresholding
+    :param threshold: the minimum reflectivity value required for the thresholding
     :param reflectivity_point_cloud: the point cloud file with points only above the 
     thresholding reflectivity 
     """
