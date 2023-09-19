@@ -2,7 +2,7 @@
 
 This project focuses on the detection of lane lines using data from the KITTI dataset, harnessing the reflective properties of LiDAR data. The final output is showcased in the following video:
 
-[![Final Output Video](./document/roi_image.jpg)](./document/lane_line_detection.avi)
+[![Final Output Video](./document/roi_image.jpg)](https://youtu.be/sRLQclswgug)
 
 ## About the Dataset
 
